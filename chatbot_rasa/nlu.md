@@ -109,6 +109,18 @@
 
 ## intent:yess
 - yes
+- yeah
+- yea sure
+- yes sure
+- okay
+- ok
+- definetely
+- fine
+- yep
 
 ## intent:noo
 - no
+- not
+- never
+- did not
+
